@@ -1,6 +1,7 @@
 # flutter_module
 
-A new Flutter module.
+A Flutter module as an example to show how to handle multiple route request using cache flutter engine from android native source. 
+Check out "cachedflutterEngine_Android" project for Android native source code.
 
 ## Getting Started
 
